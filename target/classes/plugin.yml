@@ -1,0 +1,16 @@
+name: BA-Utility
+main: com.battleasya.bautility.BAUtility
+version: 1.0
+author: Dennie, AileGabrielle (Forked)
+website: http://battleasya.com
+description: BattleAsya Utility
+commands:
+  modbr:
+    description: Name broadcast.
+  adminbr:
+    description: Staff broadcast.
+
+permissions:
+  staffbc.use:
+    description: Ability to broadcast.
+    default: op
